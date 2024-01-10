@@ -10,6 +10,7 @@ public class AscendingSortArray {
 		System.out.println("Enter your element");
 		for (int i = 0; i < a.length; i++) {
 			a[i] = s.nextInt();
+			// testing it
 		}
 		for (int i = 0; i < a.length; i++) {
 			for (int j = i + 1; j < a.length; j++) {
